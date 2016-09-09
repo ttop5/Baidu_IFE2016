@@ -1,0 +1,189 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Microsoft Yahei";
+}
+
+body {
+  background-color: #d8d8d8;
+}
+
+ul li {
+  list-style: none;
+}
+
+/* 顶部导航 —— start */
+.header-nav {
+  position: fixed;
+  width: 100%;
+  height: 56px;
+  background-color: #342e2e;
+}
+
+.header-nav h1 {
+  float: left;
+  margin: 5px 10px;
+  color: #bbb
+}
+
+.header-nav ul {
+  float: right;
+}
+
+.header-nav li {
+  float: left;
+  margin: 16px 15px;
+}
+
+.header-nav li a {
+  color: #c8c8c8;
+  text-decoration: none;
+}
+
+.header-nav li a:hover {
+  color: #fff;
+}
+/* 顶部导航 —— end */
+
+/* 主体内容 —— start */
+.div-content {
+  padding: 60px 25px;
+}
+
+.article-content {
+  margin: 20px 0px;
+  padding: 30px 20px;
+  background-color: #fff;
+  box-shadow: 5px 5px 1px #888;
+}
+
+.article-content h2 {
+  line-height: 40px;
+}
+
+.article-content h3 {
+  line-height: 30px;
+  color: #969090;
+}
+
+.article-content p {
+  line-height: 30px;
+  text-indent: 2em;
+  letter-spacing: .1em;
+}
+
+.article-content span {
+  font-size: .8em;
+  line-height: 20px;
+  color: #969090;
+}
+
+.article-content ul li {
+  text-indent: 2em;
+}
+
+.div-img figure {
+  margin: 10px 50px;
+  padding: 14px;
+  width: 200px;
+  height: 222px;
+  border: 1px solid #c2b5b5;
+  border-radius: 5px;
+}
+
+.div-img figure figcaption {
+  text-align: center;
+}
+
+.article-content ol li {
+  margin-left: 4em;
+}
+
+.p-tableintro {
+  margin-left: -2em;
+}
+
+.article-content table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid #aaa;
+}
+
+.article-content table th {
+  background-color: #342e2e;
+  color: #fff;
+  padding: 5px 15px 5px 5px;
+}
+
+.article-content table td {
+  padding: 3px 10px 3px 3px;j
+  font-size: 0.9em;
+}
+
+.article-content table tr:hover {
+  background-color: #d8d8d8;
+}
+
+.article-content table tr:last-child {
+  background-color: #aaa;
+}
+
+/* 侧边栏内容 —— start */
+.aside {
+  padding: 30px 20px;
+  width: 98%;
+  background-color: #fff;
+}
+
+.aside form {
+  margin: 20px 0px 0px 15%;
+  width: 70%;
+}
+
+.aside div {
+  margin-bottom: 15px;
+}
+
+.aside div p {
+  font-size: .8em;
+  color: #d0cdcd;
+}
+
+.aside form div:nth-child(3), div:nth-child(4), div:nth-child(5) {
+  margin-left: 3em;
+}
+
+.aside form div:nth-child(6) {
+  margin-left: 1em;
+}
+
+.aside textarea {
+  width: 99%;
+  height: 250px;
+  border-radius: 5px;
+}
+
+.aside form button  {
+  width: 100%;
+  height: 32px;
+  border-radius: 8px;
+  background-color: #2c6b90;
+}
+/* 侧边栏内容 —— end */
+/* 主体内容 —— end */
+
+/* 页脚 —— start */
+.footer {
+  margin-top: -25px;
+  padding: 35px 0px;
+  width: 100%;
+  background-color: #333;
+  font-size: .9em;
+  color: #9d9c9c;
+  text-align: center;
+}
+
+.footer a {
+  color: #fff;
+}
+/* 页脚 —— end */
