@@ -1,0 +1,50 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Microsoft Yahei";
+}
+
+img {
+  margin-left: -20px;
+}
+
+img:nth-child(2), img:nth-child(3), img:nth-child(4)  {
+  margin-top: 20px;
+}
+
+.div-container {
+  position: absolute;
+  margin: 20px;
+  padding: 20px;
+  width: auto;
+  border: solid 1px #999;
+  background-color: #eee;
+}
+
+.div-left {
+  float: left;
+  width: 200px;
+  border: solid 1px #999;
+  background-color: #fff;
+}
+
+.div-left p {
+  position: absolute;
+  top: 18px;
+  left: 140px;
+}
+
+.div-right {
+  float: right;
+  width: 120px;
+  border: solid 1px #999;
+  background-color: #fff;
+}
+
+.div-content {
+  margin: 0px 140px 0px 220px;
+  padding: 0px 20px;
+  width: auto;
+  border: solid 1px #999;
+  background-color: #fff;
+}
