@@ -15,10 +15,8 @@ ul li {
 
 /* 顶部导航 —— start */
 .header-nav {
-  position: fixed;
   width: 100%;
   height: 56px;
-  min-width: 750px;
   background-color: #342e2e;
 }
 
@@ -50,7 +48,7 @@ ul li {
 /* 侧边栏内容 —— start */
 .aside {
   float: right;
-  margin: 85px 24px 0px 0px;
+  margin: 30px 24px 0px 0px;
   padding: 30px 20px;
   width: 350px;
   box-shadow: 3px 5px 1px #888;
@@ -108,9 +106,10 @@ ul li {
 }
 /* 侧边栏内容 —— end */
 
-/* 主体内容 —— start */ .div-content {
+/* 主体内容 —— start */
+.div-content {
   margin-right: 400px;
-  padding: 66px 44px 20px 24px;
+  padding: 10px 44px 10px 24px;
 }
 
 .article-content {
@@ -130,7 +129,6 @@ ul li {
 }
 
 .article-content p {
-  padding-left: 32px;
   line-height: 30px;
   text-indent: 2em;
   letter-spacing: .1em;
@@ -165,6 +163,7 @@ ul li {
 }
 
 .p-tableintro {
+  padding-left: 32px;
   margin-left: -2em;
 }
 
