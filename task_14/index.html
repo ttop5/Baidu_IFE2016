@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>任务十四：零基础JavaScript编码（二）</title>
+  </head>
+  <body>
+    <h3>城市污染列表</h3>
+    <ul id="aqi-list"></ul>
+
+    <script>
+      const aqiData = [
+        ["北京", 90],
+        ["上海", 50],
+        ["广州", 10],
+        ["福州", 50],
+        ["成都", 90],
+        ["西安", 100],
+      ];
+
+      (function() {
+        const chineseNumbers = ["一", "二", "三", "四", "五", "六"];
+        let contentStr = "";
+
+        // 链式调用
+        aqiData.filter(function (element) {return element[1] > 60;})
+          .sort(function (d1, d2) {return d2[1] - d1[1];})
+          .forEach(function (element, index) {
+            contentStr += "<li>第" + chineseNumbers[index] + "名：" + element[1] + "</li>";
+          });
+
+        document.getElementById("aqi-list").innerHTML = contentStr;
+      })();
+    </script>
+  </body>
+</html>
