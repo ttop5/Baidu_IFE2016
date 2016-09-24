@@ -15,7 +15,7 @@
 - [ ] 【中等】任务九：使用HTML/CSS实现一个复杂页面
 - [ ] 【中等】任务十：Flexbox 布局练习
 - [ ] 【中等】任务十一：移动Web页面布局实践
-- [ ] 【简单】任务十二：学习CSS 3的新特性
+- [x] 【简单】[任务十二][12]：学习CSS 3的新特性
 
 ---
 
@@ -81,6 +81,7 @@
 [4]: https://ttop5.github.io/IFE2016/task_04/
 [5]: https://ttop5.github.io/IFE2016/task_05/
 [6]: https://ttop5.github.io/IFE2016/task_06/
+[12]: https://ttop5.github.io/IFE2016/task_12/
 [13]: https://ttop5.github.io/IFE2016/task_13/
 [14]: https://ttop5.github.io/IFE2016/task_14/
 [15]: https://ttop5.github.io/IFE2016/task_15/
