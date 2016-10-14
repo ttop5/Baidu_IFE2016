@@ -1,1 +1,85 @@
+body {
+  width: 100%;
+  min-width: 1280px;
+  font-family: 'Microsoft YaHei';
+}
 
+/* 导航 */
+header {
+  width: 100%;
+  height: 60px;
+}
+
+header .banner-left {
+  position: relative;
+  left: 5%;
+  width: 10%;
+  height: 60px;
+  display: inline-block;
+  text-align: center;
+  vertical-align: text-bottom;
+  background: url(../img/icon-1.png) no-repeat left;
+  background-size: 17% 50%;
+}
+
+header h1 {
+  color: #4E3A4F;
+  font-size: 26px;
+  cursor: default;
+}
+
+header nav {
+  position: relative;
+  margin-top: -70px;
+  left: 40%;
+  width: 35%;
+  height: 60px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+header nav ul {
+  width: 100%;
+  height: 60px;
+  line-height: 60px;
+  list-style: none;
+  box-sizing: border-box;
+}
+
+header nav ul li {
+  display: inline-block;
+  width: 19%;
+  font-size: .95em;
+  text-align: center;
+  box-sizing: border-box;
+  color: #534141;
+  transition: color 0.4s ease-in-out;
+}
+
+header nav ul .move {
+  position: absolute;
+  top: 70px;
+  left: 37px;
+  border-top: 3px solid #E53C3C;
+  transition: left 0.4s ease-in-out;
+}
+
+header .banner-right {
+  position: relative;
+  top: -20px;
+  left: 44%;
+  font-size: .95em;
+  color: #E53C3C;
+  height: 60px;
+  display: inline-block;
+  vertical-align: middle;
+  line-height: 60px;
+  text-align: center;
+  cursor: pointer;
+  background: url(../img/icon-2.jpg) no-repeat left;
+  background-size: 15px 18px;
+}
+
+header .banner-right span {
+  margin-left: 30px;
+}
