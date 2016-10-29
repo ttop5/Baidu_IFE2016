@@ -91,8 +91,7 @@ header .banner-right span {
   background-size: 100% auto;
 }
 
-.mes {
-  position: absolute;
+.mes { position: absolute;
   top: 220px;
   left: 130px;
   color: #fff;
@@ -119,4 +118,39 @@ header .banner-right span {
   color: #fff;
   background: #E53C3C;
   cursor: pointer;
+}
+
+/* section-2 */
+#section-2 {
+  width: 100%;
+  height: 240px;
+}
+
+.cell {
+  position: relative;
+  width: 24%;
+  display: inline-block;
+}
+
+.img {
+  width: 100%;
+  height: 130px;
+  display: inline-block;
+  line-height: 130px;
+  text-align: center;
+}
+
+.img img {
+  position: relative;
+  top: 30px;
+}
+
+.desc {
+  width: 100%;
+  height: 50px;
+  font-size: 13px;
+  color: #534141;
+  text-align: center;
+  box-sizing: border-box;
+  border-right: 2px solid #534141;
 }
