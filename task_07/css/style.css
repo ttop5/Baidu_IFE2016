@@ -58,7 +58,7 @@ header nav ul li {
 header nav ul .move {
   position: absolute;
   top: 70px;
-  left: 37px;
+  left: 35px;
   border-top: 3px solid #E53C3C;
   transition: left 0.4s ease-in-out;
 }
