@@ -174,3 +174,64 @@ header .banner-right span {
   color: #534141;
   top: 120px;
 }
+
+/* section-4 */
+#section-4 {
+  width: 100%;
+  height: 300px;
+  padding-top: 20px;
+  box-sizing: border-box;
+  text-align: center;
+  background: url(../img/pic02.jpg);
+  background-size: cover;
+}
+
+.city-info p {
+  color: #fff;
+}
+
+.city-info p:first-child {
+  font-size: 22px;
+}
+
+.city-info p:last-child {
+  font-size: 13px;
+}
+
+.city-info div {
+  display: inline-block;
+  width: 40px;
+  height: 10px;
+  border-top: 2px solid #fff;
+}
+
+.select-city input[type="radio"] {
+  position: relative;
+  width: 240px;
+  height: 36px;
+  margin: 0px 10px;
+  cursor: pointer;
+  opacity: 0;
+  top: 47px;
+  z-index: 10;
+}
+
+.options {
+  height: 36px;
+}
+
+.options select {
+  width: 24px;
+  height: 36px;
+  margin: 0px 10px;
+  font-size: 14px;
+  line-height: 36px;
+  text-align: left;
+  color: #B3B3B3;
+  display: inline-block;
+  position: relative;
+  box-sizing: border-box;
+  border: 1px solid #C6B3AF;
+  background: url(../imges/icon-7.png) no-repeat 210px 8px, #fff;
+  background-size: 20px;
+}
