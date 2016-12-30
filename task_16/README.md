@@ -15,7 +15,7 @@ index.html
 <html>
   <head>
     <meta charset="utf-8">
-    <title>IFE JavaScript Task 01</title>
+    <title>任务十六：零基础JavaScript编码（四</title>
     <script src="script.js"></script>
   </head>
 <body>
@@ -42,6 +42,7 @@ index.html
 </body>
 </html>
 ```
+
 script.js
 
 ```Javascript
