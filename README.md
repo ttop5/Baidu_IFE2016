@@ -10,7 +10,7 @@
 - [x] 【简单】[任务四][4]：定位和居中问题
 - [x] 【简单】[任务五][5]：零基础HTML及CSS编码（二）
 - [x] 【简单】[任务六][6]：通过HTML及CSS模拟报纸排版
-- [ ] 【简单】任务七：实现常见的技术产品官网的页面架构及样式布
+- [x] 【简单】[任务七][7]：实现常见的技术产品官网的页面架构及样式布
 - [ ] 【中等】任务八：响应式网格（栅格化）布局
 - [ ] 【中等】任务九：使用HTML/CSS实现一个复杂页面
 - [ ] 【中等】任务十：Flexbox 布局练习
@@ -81,6 +81,7 @@
 [4]: https://ttop5.github.io/IFE2016/task_04/
 [5]: https://ttop5.github.io/IFE2016/task_05/
 [6]: https://ttop5.github.io/IFE2016/task_06/
+[7]: https://ttop5.github.io/IFE2016/task_07/
 [12]: https://ttop5.github.io/IFE2016/task_12/
 [13]: https://ttop5.github.io/IFE2016/task_13/
 [14]: https://ttop5.github.io/IFE2016/task_14/
