@@ -25,7 +25,7 @@
 - [x] 【简单】[任务十四][14]：面向零基础的JavaScript代码编写（二）
 - [x] 【简单】[任务十五][15]：面向零基础的JavaScript代码编写（三）
 - [x] 【中等】[任务十六][16]：面向零基础的JavaScript代码编写（四）
-- [ ] 【中等】任务十七：面向零基础的JavaScript代码编写（五）
+- [] 【中等】[任务十七][17]：面向零基础的JavaScript代码编写（五）
 - [ ] 【简单】任务十八：基础JavaScript练习（一）
 - [ ] 【简单】任务十九：基础JavaScript练习（二）
 - [ ] 【简单】任务二十：基础JavaScript练习（三）
@@ -87,3 +87,4 @@
 [14]: https://ttop5.github.io/IFE2016/task_14/
 [15]: https://ttop5.github.io/IFE2016/task_15/
 [16]: https://ttop5.github.io/IFE2016/task_16/
+[17]: https://ttop5.github.io/IFE2016/task_17/
