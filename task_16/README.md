@@ -112,7 +112,7 @@ init();
 
 ## Demo展示
 
-[http://ttop5.github.io/IFE2016/task_16/][1]
+[http://ttop5.github.io/Baidu_IFE2016/task_16/][1]
 
 
-[1]: http://ttop5.github.io/IFE2016/task_16/
+[1]: http://ttop5.github.io/Baidu_IFE2016/task_16/

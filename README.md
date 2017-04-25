@@ -1,4 +1,4 @@
-# IFE2016
+# Baidu_IFE2016
 
 `created on 2016-09-04 by ttop5`
 
@@ -75,16 +75,16 @@
 ---
 
 
-[1]: https://ttop5.github.io/IFE2016/task_01/
-[2]: https://ttop5.github.io/IFE2016/task_02/
-[3]: https://ttop5.github.io/IFE2016/task_03/
-[4]: https://ttop5.github.io/IFE2016/task_04/
-[5]: https://ttop5.github.io/IFE2016/task_05/
-[6]: https://ttop5.github.io/IFE2016/task_06/
-[7]: https://ttop5.github.io/IFE2016/task_07/
-[12]: https://ttop5.github.io/IFE2016/task_12/
-[13]: https://ttop5.github.io/IFE2016/task_13/
-[14]: https://ttop5.github.io/IFE2016/task_14/
-[15]: https://ttop5.github.io/IFE2016/task_15/
-[16]: https://ttop5.github.io/IFE2016/task_16/
-[17]: https://ttop5.github.io/IFE2016/task_17/
+[1]: https://ttop5.github.io/Baidu_IFE2016/task_01/
+[2]: https://ttop5.github.io/Baidu_IFE2016/task_02/
+[3]: https://ttop5.github.io/Baidu_IFE2016/task_03/
+[4]: https://ttop5.github.io/Baidu_IFE2016/task_04/
+[5]: https://ttop5.github.io/Baidu_IFE2016/task_05/
+[6]: https://ttop5.github.io/Baidu_IFE2016/task_06/
+[7]: https://ttop5.github.io/Baidu_IFE2016/task_07/
+[12]: https://ttop5.github.io/Baidu_IFE2016/task_12/
+[13]: https://ttop5.github.io/Baidu_IFE2016/task_13/
+[14]: https://ttop5.github.io/Baidu_IFE2016/task_14/
+[15]: https://ttop5.github.io/Baidu_IFE2016/task_15/
+[16]: https://ttop5.github.io/Baidu_IFE2016/task_16/
+[17]: https://ttop5.github.io/Baidu_IFE2016/task_17/

@@ -16,10 +16,10 @@
 
 ## Demo展示
 
-[http://ttop5.github.io/IFE2016/task_06/][4]
+[http://ttop5.github.io/Baidu_IFE2016/task_06/][4]
 
 
 [1]: http://7xrp04.com1.z0.glb.clouddn.com/task_1_6_1.psd
 [2]: http://7xrp04.com1.z0.glb.clouddn.com/task_1_6_2.jpg
 [3]: http://7xrp04.com1.z0.glb.clouddn.com/task_1_6_3.jpg
-[4]: http://ttop5.github.io/IFE2016/task_06/
+[4]: http://ttop5.github.io/Baidu_IFE2016/task_06/

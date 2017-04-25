@@ -15,9 +15,9 @@
 
 ## Demo展示
 
-[http://ttop5.github.io/IFE2016/task_07/][3]
+[http://ttop5.github.io/Baidu_IFE2016/task_07/][3]
 
 
 [1]: http://7xrp04.com1.z0.glb.clouddn.com/task_1_7_1.psd
 [2]: http://7xrp04.com1.z0.glb.clouddn.com/task_1_7_2.jpg
-[3]: http://ttop5.github.io/IFE2016/task_07/
+[3]: http://ttop5.github.io/Baidu_IFE2016/task_07/
